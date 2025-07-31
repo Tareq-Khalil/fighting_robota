@@ -1,0 +1,15 @@
+Component,Description,Price (USD),Source
+Arduino Due (32-bit),Central microcontroller,$61.67,https://store.arduino.cc/products/arduino-due
+DRV8835 Dual Motor Driver,Dual H-bridge motor control,$19,
+2× DC Planetary Gear Motors,High torque drive,$35,
+HC-SR04 Ultrasonic Sensor,Distance sensing,$18,
+2× IR Proximity Sensor Modules,Edge/opponent detection,$22,
+LiPo Battery 7.4V 2000 mAh + BMS,Rechargeable battery,$38,
+Mini Breadboard + Jumper Kit,Internal wiring,$18,
+3D-Printed ABS Chassis,Robot body,$10,
+Rubber Wheels + Traction Bands,Traction and movement,$15,
+USB Mini Cable + Connectors,Programming + power,$12,
+LiPo Charger (balanced),Battery management,$27,
+Power Switch & Fuse Holder,Power safety and manual control,$20,
+RGB LED Light Bar,Status indication,$11,https://www.amazon.eg/-/en/10M-70W-Light-Remote-Control/dp/B09S41M1LZ
+,,TOTAL,$306.67,
