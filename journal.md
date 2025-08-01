@@ -1,6 +1,6 @@
 ---
 title: "Fighting Robota"
-author: "Mohammed Mostafa"
+author: "Mina Romany Mina habib"
 description: "A self-driving wrestling robot with ultrasonic and IR sensors, high-torque motors, and real-time behavior control."
 created_at: "1/7/25"
 ---
