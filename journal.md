@@ -1,11 +1,12 @@
-# Robot Wrestling Project Journal
-
-## Developer: Mina Romany Mina Habib  
-**Duration**: 01/07/2025 – 12/07/2025  
-**Total Time Spent**: 68 hours  
-**Description**: An autonomous robot designed for competitive wrestling-style matches. Focus areas included high-torque movement, intelligent opponent detection, sensor integration, and adaptive behavior control through real-time decision-making algorithms.
-
 ---
+title: "Fighting Robota"
+author: "Mina Romany Mina Habib"
+Duration: 01/07/2025 – 12/07/2025  
+description: "An autonomous robot designed for competitive wrestling-style matches. Focus areas included high-torque movement, intelligent opponent detection, sensor integration, and adaptive behavior control through real-time decision-making algorithms."
+Total Time Spent: 68 hours  
+created_at: "1/7/2025"
+---
+
 
 ### 01/07/2025  
 I began the combat robotics part of my project by drawing the base frame and then thinking about possible layouts of the arena. Not only was it important to see the physical structure, how the robot would walk and move inside a confined space mattered. I have effectively used some hours of the day to research about torque and gear ratios in an effort to get the maximum combination of pushing and agility. In the process, I have also collected sources on effective autonomous wrestling strategies as I dreamed to combine theoretical AI methods with the real physics. This was very inspiring and energizing beginning to this sub-project.
@@ -96,3 +97,4 @@ When the finish line approached, I collected all the media materials to include 
 
 ### 12/07/2025  
 During the last day, I completely worked on verification and submission. I went through the sourcing information of each component again to make sure that all of it was well accounted. Then I read this journal and README file one more time to find any typo or omitted documentation. I checked that links are active, diagrams are understandable and all material was provided on the correct form. This was a muted yet rewarding conclusion to a real interesting and learning build-up.
+
