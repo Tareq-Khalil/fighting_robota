@@ -9,10 +9,10 @@ I’ve always been fascinated by combat robotics but wanted to push beyond the s
 ---
 
 ### Screenshots  
-- ![alt text](image.png)
-- ![alt text](image2.png)
-- ![alt text](image1.png)
-- ![alt text](circuits15.webp)
+- ![alt text](imag/image.png)
+- ![alt text](imag/image2.png)
+- ![alt text](imag/image1.png)
+- ![alt text](imag/circuits15.webp)
 
 ---
 
@@ -34,3 +34,6 @@ I’ve always been fascinated by combat robotics but wanted to push beyond the s
 |12 | Power Switch + Fuse Assembly       | Safety and manual control                        | $20         | — |
 |13 | RGB LED Light Bar                  | Visual feedback and effects                      | $11         | [Link](https://www.amazon.eg/-/en/10M-70W-Light-Remote-Control/dp/B09S41M1LZ) |
 |   | **Total**                          |                                                  | **$306.67** |        |
+
+### Note
+I can provide links for all the materials because i am going to buy them offline nearby because it is cheaper and i ask to be funded after i show you the reciept of my purchase for reimbrusement.
