@@ -11,6 +11,7 @@ I’ve always been fascinated by combat robotics but wanted to push beyond the s
 ### Screenshots  
 - ![alt text](imag/image.png)
 - ![alt text](imag/image2.png)
+- ![alt text](https://github.com/user-attachments/assets/1cdda874-10b3-4ff4-9f3a-2ba02064c6a9)
 - ![alt text](imag/image1.png)
 - ![alt text](imag/circuits15.webp)
 
@@ -37,3 +38,4 @@ I’ve always been fascinated by combat robotics but wanted to push beyond the s
 
 ### Note
 I can provide links for all the materials because i am going to buy them offline nearby because it is cheaper and i ask to be funded after i show you the reciept of my purchase for reimbrusement.
+
