@@ -122,4 +122,6 @@ When the finish line approached, I collected all the media materials to include 
 
 During the last day, I completely worked on verification and submission. I went through the sourcing information of each component again to make sure that all of it was well accounted. Then I read this journal and README file one more time to find any typo or omitted documentation. I checked that links are active, diagrams are understandable and all material was provided on the correct form. This was a muted yet rewarding conclusion to a real interesting and learning build-up.
 
+![full assembly](https://github.com/user-attachments/assets/42526daa-04d4-4226-b76c-b05b2c5b3b70)
+
 
