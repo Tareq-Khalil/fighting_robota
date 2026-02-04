@@ -37,5 +37,6 @@ I’ve always been fascinated by combat robotics but wanted to push beyond the s
 |   | **Total**                          |                                                  | **$306.67** |        |
 
 ### Note
-I can provide links for all the materials because i am going to buy them offline nearby because it is cheaper and i ask to be funded after i show you the reciept of my purchase for reimbrusement.
+I can't provide links for all the materials because i am going to buy them offline nearby because it is cheaper and i ask to be funded after i show you the reciept of my purchase for reimbrusement.
+
 
